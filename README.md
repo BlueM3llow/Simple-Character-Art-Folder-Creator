@@ -14,3 +14,6 @@ This was specifically made to organize any art you receive, whether it's **fanar
 <i>This is what is inside the parent folder:</i>
 <br>
 <img width="613" height="120" alt="image" src="https://github.com/user-attachments/assets/7e0ac215-0821-4369-9129-e3e627981180" />
+<hr>
+<p>PEEP ALL THOSE CRITTERS!</p>
+<img width="633" height="549" alt="image" src="https://github.com/user-attachments/assets/ea4f08e9-46ee-44c3-a344-f39b4795de86" />
