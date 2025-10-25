@@ -8,7 +8,7 @@ This was specifically made to organize any art you receive, whether it's **fanar
 <h2>Brief instructions</h2>
 <ol>
   <li>Create a <b>master Character Folder</b> (optional)</li>
-  <li>Place <i>OC_Folder_Creator.bat</i> inside of the <b>master Character Folder</b></li>
+  <li>Place <code>OC_Folder_Creator.bat</code> inside of the <b>master Character Folder</b></li>
   <li>Run the batch script whenever you plan to add a new character!</li>
 </ol>
 <i>This is what is inside the parent folder:</i>
